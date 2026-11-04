@@ -1,0 +1,8 @@
+{
+  "name": "bazaar-trader-skill",
+  "version": "1.0.0",
+  "description": "11 Claude skills for Indian day trading on NSE/BSE: scan EQ charts in IST, track NSE announcements, time entries and exits, replay outcomes with honest fills, and keep paper-only until you type yes.",
+  "license": "MIT",
+  "homepage": "https://github.com/raiaashish-code/bazaar-trader-skill",
+  "skills": "./"
+}

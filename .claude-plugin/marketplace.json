@@ -1,0 +1,13 @@
+{
+  "name": "bazaar-trader-skill",
+  "owner": {
+    "name": "raiaashish-code"
+  },
+  "plugins": [
+    {
+      "name": "bazaar-trader-skill",
+      "source": "./",
+      "description": "11 Claude skills for Indian day trading on NSE/BSE: scan EQ charts in IST, track NSE announcements, time entries and exits, replay outcomes with honest fills, and keep paper-only until you type yes."
+    }
+  ]
+}
