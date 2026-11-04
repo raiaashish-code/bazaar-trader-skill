@@ -1,0 +1,6 @@
+{
+  "data": [
+    {"date": "2026-10-19", "category": "FII", "buyValue": 12000, "sellValue": 11000, "netValue": 1000, "source": "nse_fii_dii"},
+    {"date": "2026-10-19", "category": "DII", "buyValue": 8000, "sellValue": 9000, "netValue": -1000, "source": "nse_fii_dii"}
+  ]
+}
